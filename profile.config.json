@@ -2,6 +2,7 @@
   "github": "sorastyx",
   "repository": "sorastyx/sorastyx",
   "assetVersion": 4,
+  "detailExcludedSubjects": [38979],
   "languageExcludedRepositories": [
     "sorastyx/sorastyx_page",
     "sorastyx/sorastyx"

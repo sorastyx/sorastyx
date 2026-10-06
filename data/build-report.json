@@ -22,5 +22,7 @@
     "wantPlay": 6,
     "wantWatch": 1
   },
-  "warnings": []
+  "warnings": [
+    "No cached image: https://lain.bgm.tv/pic/cover/l/b2/72/200763_s2kSG.jpg"
+  ]
 }
