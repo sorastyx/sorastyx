@@ -1,7 +1,7 @@
 {
   "github": "sorastyx",
   "repository": "sorastyx/sorastyx",
-  "assetVersion": 3,
+  "assetVersion": 4,
   "languageExcludedRepositories": [
     "sorastyx/sorastyx_page",
     "sorastyx/sorastyx"
@@ -52,6 +52,10 @@
   ],
   "playingLimit": 6,
   "watchingLimit": 4,
+  "completedGameLimit": 6,
+  "completedAnimeLimit": 5,
+  "plannedGameLimit": 6,
+  "plannedAnimeLimit": 4,
   "peopleLimit": 16,
   "characterLimit": 12,
   "counterTheme": "miku"
